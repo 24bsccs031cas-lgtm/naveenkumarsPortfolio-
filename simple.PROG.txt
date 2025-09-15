@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Karthick M - Portfolio</title>
+  <title>Naveen kumar S - Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -50,13 +50,13 @@
 <body>
 
   <header>
-    <h1>Karthick M</h1>
+    <h1>Naveen kumar S</h1>
     <p>Web Developer | Designer | Tech Enthusiast</p>
   </header>
 
   <section>
     <h2>About Me</h2>
-    <p>Hello! I'm Karthick M, a passionate web developer with experience in building responsive and user-friendly websites. I love turning ideas into reality using clean and efficient code.</p>
+    <p>Hello! I'mNaveen kumar S, a passionate web developer with experience in building responsive and user-friendly websites. I love turning ideas into reality using clean and efficient code.</p>
   </section>
 
   <section>
@@ -90,9 +90,9 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Email: karthick@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/karthick" target="_blank">linkedin.com/in/karthick</a></p>
-    <p>GitHub: <a href="https://github.com/karthick" target="_blank">github.com/karthick</a></p>
+    <p>Email: Naveen kumar@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/Naveen kumar" target="_blank">linkedin.com/in/Naveen kumar</a></p>
+    <p>GitHub: <a href="https://github.com/Naveen kumar" target="_blank">github.com/Naveen kumar</a></p>
   </section>
 
   <footer>
@@ -101,3 +101,4 @@
 
 </body>
 </html>
+
